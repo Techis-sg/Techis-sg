@@ -6,9 +6,12 @@
 
 <!-- About Section -->
 ## 🚀 About Me  
-🎯 **Django Developer** with 2+ years of experience in building scalable web applications & APIs.  
+
+🧩 Full-Stack Engineer | 🤖 AI-Driven Dev | 🌐 Django Backend × MERN × Supabase | 🔄 Stack-Agile | 🏗 2+ Years Building Scalable Systems | 🧠 Philosopher Thinker
+
 💡 Passionate about **clean code, automation, and problem-solving**.  
-📈 Exploring **Data Science & ML** while mastering **Django & Backend Engineering**.  
+
+📈 Exploring **Data Science**
 
 ---
 
