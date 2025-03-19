@@ -36,7 +36,7 @@
 <!-- Contact Section -->
 ## 📫 Get in Touch  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shobhitgagrani007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhit-gagrani-469b501a2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6F61.svg?style=for-the-badge&logo=Firefox&logoColor=white)](https://yourportfolio.com)
 
 ---
