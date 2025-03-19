@@ -1,18 +1,3 @@
-- 👋 Hi, I’m Shobhit Gagrani (@Techis-sg)
-- 📝 I'm a **Professional Django Web-App Developer** with **experience** of more than 2 years.
-- 👀 I’m interested in Developing Web-Apps and indulge in SDLC. I am also interested to go in Data Science and Machine learning field.
-- 🤝 I’m looking to collaborate on projects where Python-Django/HTML/CSS/Jquery/SQL/DRF REST APIs is involved
-- 📫 How to reach me 📧shobhitgagrani007@gmail.com
-
-<!---
-Techis-sg/Techis-sg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-Here's an enhanced, professional GitHub profile README.md for you:
-
-```markdown
 # 👋 Hello World! I'm Shobhit Gagrani
 
 ## 💻 Full Stack Django Developer | REST API Specialist | Python Enthusiast
@@ -92,26 +77,49 @@ if opportunity in (innovative_ideas, technical_challenges, collaboration_offers)
     send_message(shobhitgagrani007@gmail.com)
 ```
 
-> "First, solve the problem. Then, write the code." - John Johnson
-```
+[![Shobhit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Techis-sg&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true)](https://github.com/Techis-sg)
 
-**Features of this README:**
-1. Modern badge styling using shields.io
-2. Clear skill categorization
-3. Project showcase with interactive badges
-4. GitHub stats integration
-5. Interactive collaboration section
-6. Multiple contact options
-7. Personality elements (code snippet, quote)
-8. Responsive layout
-9. Visual hierarchy with emojis and colors
+?username=Techis-sg
+&show_icons=true          # Show icons
+&count_private=true       # Include private contributions
+&include_all_commits=true # Shows annual commit count
+&theme=radical            # Color theme
+&hide_border=true         # Remove card border
+&custom_title=My%20Dev%20Journey  # Custom title
+&hide=contribs,prs        # Hide specific sections
+&show=reviews,discussions # Show extra sections
 
-**To customize further:**
-1. Add actual LinkedIn/Twitter URLs
-2. Include portfolio website link
-3. Update project links with your actual repositories
-4. Add real metrics in the GitHub stats section
-5. Customize the color themes if needed
-6. Add any additional frameworks/tools you use
 
-Would you like me to explain any particular section in more detail or help with specific customizations?
+[![Detailed Stats](https://github-readme-stats.vercel.app/api?username=Techis-sg&hide=issues&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true)](https://github.com/Techis-sg)
+
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Techis-sg&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=445)](https://github.com/Techis-sg)
+
+![Total Stars](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Techis-sg/your-gist-id/raw/stars.json)
+![Total Commits](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Techis-sg/your-gist-id/raw/commits.json)
+![Total PRs](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Techis-sg/your-gist-id/raw/prs.json)
+![Total Issues](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Techis-sg/your-gist-id/raw/issues.json)
+
+
+## 📊 GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=Techis-sg&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Shobhit's stats" />
+    </td>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Techis-sg&theme=radical&hide_border=true" alt="Shobhit's streak" />
+    </td>
+  </tr>
+</table>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Techis-sg&theme=react-dark&hide_border=true&area=true)
+
+| Metric | Value |
+| --- | --- |
+| **Total Contributions** | ![](https://img.shields.io/badge/%20-1500%20Commits-blue) |
+| **Public Repos** | ![](https://img.shields.io/badge/%20-42%20Repos-9cf) |
+| **Stars Earned** | ![](https://img.shields.io/badge/%20-89%20Stars-yellow) |
+| **PRs/Issues** | ![](https://img.shields.io/badge/%20-56%20Merged%20PRs-brightgreen) ![](https://img.shields.io/badge/%20-23%20Issues%20Closed-red) |
