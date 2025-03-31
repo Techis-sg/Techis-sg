@@ -23,10 +23,11 @@
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats  
+![Techis-sg's Stats](https://github-readme-stats.vercel.app/api?username=Techis-sg&theme=default&show_icons=true&hide_border=true&count_private=true)
+![Techis-sg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Techis-sg&theme=default&hide_border=true)
+![Techis-sg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Techis-sg&theme=default&show_icons=true&hide_border=true&layout=compact)
 <div align="center">
-  ![Techis-sg's Stats](https://github-readme-stats.vercel.app/api?username=Techis-sg&theme=default&show_icons=true&hide_border=true&count_private=true)
-  ![Techis-sg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Techis-sg&theme=default&hide_border=true)
-  ![Techis-sg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Techis-sg&theme=default&show_icons=true&hide_border=true&layout=compact)
+  
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Techis-sg&show_icons=true&theme=radical&hide_border=true" width="49%" />
 <!--   <img href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Techis-sg&theme=dracula" alt="GitHub Streak" width="49%" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techis-sg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> -->
