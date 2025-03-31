@@ -23,9 +23,9 @@
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats  
-![Techis-sg's Stats](https://github-readme-stats.vercel.app/api?username=Techis-sg&theme=default&show_icons=true&hide_border=true&count_private=true)
-![Techis-sg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Techis-sg&theme=default&hide_border=true)
-![Techis-sg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Techis-sg&theme=default&show_icons=true&hide_border=true&layout=compact)
+![Techis-sg's Stats](https://github-readme-stats.vercel.app/api?username=Techis-sg&theme=default&show_icons=true&hide_border=false&count_private=true)
+![Techis-sg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Techis-sg&theme=default&hide_border=false)
+![Techis-sg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Techis-sg&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 
 <!-- Contact Section -->
