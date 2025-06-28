@@ -1,8 +1,6 @@
----
-
 ## 👋 Hi, I’m **Shobhit Gagrani**
 
-**Full Stack Engineer | Generalist Engineer | Problem Solver**
+**Full Stack Developer | Generalist Engineer | Problem Solver**
 
 Building mission-driven, scalable software with a product mindset. Use modern AI tools extensively. At the intersection of **system design, intelligent automation, and clean code**, I aim to deliver impact through innovation. Bringing ideas to life.
 
