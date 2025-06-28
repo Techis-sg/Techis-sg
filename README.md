@@ -38,17 +38,6 @@ Currently enhancing my engineering toolkit with **AI/ML, software architectures*
 
 ---
 
-### 🚀 Work Highlights
-
-**🔹 Software Engineer @ Tanla Platforms (CPaaS)**
-
-* Developed **high-performance backends and APIs** powering 60% of company revenue (Trubloq).
-* Optimized ORM-heavy systems to load 300K+ records in **<3s** with SQL procedures.
-* Built two end-to-end enterprise-grade portals with UCC spam protection.
-* Followed **secure, scalable coding** practices with full-stack responsibility.
-
----
-
 ### 💡 Side Projects
 
 * **Kairo Dev Hub**: An all-in-one productivity and portfolio suite for developers.
