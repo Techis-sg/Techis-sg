@@ -1,5 +1,3 @@
-Thanks for sharing everything. Based on your **resume**, **previous GitHub bio**, and the **vision** you’ve conveyed, here's a **professionally attractive**, **ATS-optimized**, and **visually engaging** GitHub bio that will make you stand out as a smart, impactful, and modern full-stack/backend engineer.
-
 ---
 
 ## 👋 Hi, I’m **Shobhit Gagrani**
