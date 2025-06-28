@@ -7,7 +7,7 @@
 <!-- About Section -->
 ## 🚀 About Me  
 
-🧩 Full-Stack Engineer | 🤖 AI-Driven Dev | 🌐 Django Backend × MERN × Supabase | 🔄 Stack-Agile | 🏗 2+ Years Building Scalable Systems | 🧠 Philosopher Thinker
+🧩 Full-Stack Engineer | 🤖 AI-Driven Dev | 🌐 Django Backend × MERN × Supabase | 🔄 Stack-Agile | 🏗 2+ Years Building Scalable Systems | 🧠 Philosopher, Thinker, Builder
 
 💡 Passionate about **clean code, automation, and problem-solving**.  
 
