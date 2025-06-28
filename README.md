@@ -37,7 +37,7 @@ Currently enhancing my engineering toolkit with **AI/ML, software architectures*
 ### 💡 Side Projects
 
 * **Kairo Dev Hub**: An all-in-one productivity and portfolio suite for developers.
-* **Amazon & Netflix Clones**: CDN-based learning projects showcasing e-commerce and media streaming workflows.
+* **Amazon, Netflix & Whatsapp Clones**: Practical learning projects to understand CDN, e-commerce, media streaming workflows, WebRTC, WebSockets, Webhooks for persistent realtime communication.
 * **MRSASN**: Flask app with content-based recommendation using TMDB API and Naive Bayes.
 * **Twitter Sentiment Analysis**: End-to-end NLP pipeline with actionable visual insights.
 
