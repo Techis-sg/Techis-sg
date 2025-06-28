@@ -11,7 +11,7 @@
 
 💡 Passionate about **clean code, automation, and problem-solving**.  
 
-📈 Exploring **Data Science**
+📈 Exploring **Data Science** **AI-ML Engineer**
 
 ---
 
