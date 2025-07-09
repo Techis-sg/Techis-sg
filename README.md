@@ -1,14 +1,12 @@
 ## 👋 Hi, I’m **Shobhit Gagrani**
 
-**Full Stack Developer | Generalist Engineer | Problem Solver**
+**Full Stack Software Developer**
 
-Building mission-driven, scalable software with a product mindset. Use modern AI tools extensively. At the intersection of **system design, intelligent automation, and clean code**, I aim to deliver impact through innovation. Bringing ideas to life.
-
-Currently enhancing my engineering toolkit with **AI/ML, software architectures**.
+I love bringing ideas to life in fascinating world of Computers & Technologia.
 
 ---
 
-### 🔧 Tech Stack
+### 🔧 My Growing Tech Stack (I dont know anything, it means I have hands on with these)
 
 **📌 Programming Languages & Frameworks**
 `Python` · `JavaScript (ES6+)` · `TypeScript` · `HTML5` · `CSS3` · `C++` . `SQL`
@@ -27,7 +25,7 @@ Currently enhancing my engineering toolkit with **AI/ML, software architectures*
 `CI/CD Pipelines` · `API Monitoring` · `RabbitMQ` ·  `BullMQ` · `Celery` · `Supervisor`
 
 **🎨 Frontend Technologies**
-`TailwindCSS` · `SASS/SCSS` · `JQuery` · `Three.js` · `SolidJS` · `Webpack` · `Vite` · `Framer-motion`
+`TailwindCSS` · `SASS/SCSS` · `JQuery` · `Three.js` · `SolidJS` · `Webpack` · `Vite` · `Framer-motion` `React-Flow` `DaisyUI` `Shadcn`
 
 **🧰 Tools & Productivity**
 `VS Code` · `Postman` · `Figma` · `Swagger` · `Git` · `Trello` · `Notion` · `Obsidian` · `Zsh` · `Linux CLI`
@@ -36,10 +34,7 @@ Currently enhancing my engineering toolkit with **AI/ML, software architectures*
 
 ### 💡 Side Projects
 
-* **Kairo Dev Hub**: An all-in-one productivity and portfolio suite for developers.
-* **Amazon, Netflix & Whatsapp Clones**: Practical learning projects to understand CDN, e-commerce, media streaming workflows, WebRTC, WebSockets, Webhooks for persistent realtime communication.
-* **MRSASN**: Flask app with content-based recommendation using TMDB API and Naive Bayes.
-* **Twitter Sentiment Analysis**: End-to-end NLP pipeline with actionable visual insights.
+<h1>Coming Soon !!! </h1>
 
 ---
 
