@@ -1,13 +1,6 @@
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/techis-sg">Shobhit Gagrani</a></h1>
 <h3 align="center">💻 Full Stack Software Developer | 🚀 Builder | 🧠 AI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readmecode-pdf.onrender.com/api/badge/user_mfg9lz4y_caclqs" alt="Visitor Badge" />
-<script src="https://readmecodegen.com/view-tracker.js" data-user="user_mfg9lz4y_caclqs"></script>
-</div>
-
-</p>
-
 ---
 
 ### 🧩 About Me
