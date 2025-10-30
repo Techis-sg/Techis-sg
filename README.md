@@ -1,8 +1,14 @@
+<head><script src="https://readmecodegen.com/view-tracker.js" data-user="user_mhcy931l_bempv2"></script></head>
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/techis-sg">Shobhit Gagrani</a></h1>
 <h3 align="center">💻 Full Stack Software Developer | 🚀 Builder | 🧠 AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=techis-sg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <div style="display: flex; justify-content: center; align-items: center; padding: 10px;">
+  <a href="https://readmecodegen.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: fit-content;">
+    <img src="https://readmecode-pdf.onrender.com/api/badge/user_mhcy931l_bempv2" alt="Visitor Badge" style="display: block; max-width: 100%; height: auto;" />
+  </a>
+</div>
+
 </p>
 
 ---
