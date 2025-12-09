@@ -19,7 +19,7 @@ Currently focused on building **intelligent web systems**, integrating **AI/ML**
 ### 🧠 Tech Stack
 
 #### 🧩 Programming Languages & Frameworks  
-`Python` · `JavaScript (ES6+)` · `TypeScript` · `C++` · `SQL`  
+`Python` · `JavaScript (ES6+)` · `TypeScript` · `SQL`  
 `Django` · `FastAPI` · `Node.js` · `Express.js` · `React.js` · `Next.js` · `GraphQL` · `REST APIs`
 
 #### 🤖 AI / ML / Data  
