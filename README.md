@@ -60,6 +60,7 @@ Currently focused on building **intelligent web systems**, integrating **AI/ML**
 <a href="https://auth.geeksforgeeks.org/user/shobhitgagraztce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shobhitgagraztce" height="30" width="40" /></a>
 </p>
 
+<!--
 ---
 
 ### 🧮 GitHub Stats
@@ -74,6 +75,7 @@ Currently focused on building **intelligent web systems**, integrating **AI/ML**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Techis-sg)](https://git.io/streak-stats)
 ---
+-- >
 
 ### 💡 Side Projects
 <h3 align="center">🚧 Coming Soon 🚧</h3>
