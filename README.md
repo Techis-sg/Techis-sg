@@ -45,7 +45,7 @@ Currently focused on building **intelligent web systems**, integrating **AI/ML**
 ### 🏆 Achievements & Profiles
 
 <p align="center">
-  [<img src="https://leetcode-badge-showcase.vercel.app/api?username=ShobhitGagrani&animated=true" alt="LeetCode Badges" />](https://leetcode-badge-showcase.vercel.app/api?username=ShobhitGagrani&theme=light&border=border&animated=true)
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ShobhitGagrani&animated=true" alt="LeetCode Badges" />
 </p>
 
 ---
