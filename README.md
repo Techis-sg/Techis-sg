@@ -1,47 +1,106 @@
-<h1 align="center">👋 Hi, I'm <a href="https://github.com/techis-sg">Shobhit Gagrani</a></h1>
-<h3 align="center">💻 Full Stack Software Developer | 🚀 Builder | 🧠 AI Enthusiast</h3>
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1500&color=A78BFA&center=true&vCenter=true&width=500&lines=const+engineer+%3D+new+Shobhit();+%2F%2F+loading...;%3E+curious+by+nature.+consistent+by+habit.;%3E+leetcode+2441+%E2%80%94+top+1%25+globally.)](https://git.io/typing-svg)
 
-### 🧩 About Me
+</div>
 
-I’m a **Full Stack Developer** who loves bringing ideas to life in the fascinating world of **Computers & Technologia** 🧠.  
-Currently focused on building **intelligent web systems**, integrating **AI/ML**, and exploring **modern architectures** with performance and design at heart.
+<br>
 
-- 🔭 Working on scalable AI-driven applications  
-- 🌱 Learning **system design**, **distributed systems**, and **DevOps automation**  
-- 💬 Ask me about **backend architectures, APIs, AI integrations, or frontend performance**  
-- 📫 Reach me at **[shobhitgagrani007@gmail.com](mailto:shobhitgagrani007@gmail.com)**  
-- 🌐 Portfolio → *Coming Soon*  
+```jsonc
+ ____  _           _     _     _ _         ____                             _ 
+/ ___|| |__   ___ | |__ | |__ (_) |_      / ___| __ _  __ _ _ __ __ _ _ __ (_)
+\___ \| '_ \ / _ \| '_ \| '_ \| | __|    | |  _ / _` |/ _` | '__/ _` | '_ \| |
+ ___) | | | | (_) | |_) | | | | | |_     | |_| | (_| | (_| | | | (_| | | | | |
+|____/|_| |_|\___/|_.__/|_| |_|_|\__|     \____|\__,_|\__, |_|  \__,_|_| |_|_|
+                                                      |___/
 
----
-<p align="center">
-  <img src="./profileCard.png" alt="ProfileCard" width="300"/>
-</p>
+{
+  "name"   : "Shobhit Gagrani",
+  "role"   : "Software Engineer",
+  "focus"  : ["Full Stack", "Backend Systems", "AI / LLM", "APIs"],
 
-### 🧠 Tech Stack
+  "about"  : "I build web products, SaaS, microservices and APIs —
+               everything in the Python & JS/TS ecosystem.
+               Into backend systems, data-heavy features, automations
+               that reduce complexity, and LLM tooling.
+               4+ yrs programming · 2+ yrs professional · product mindset.",
 
-#### 🧩 Programming Languages & Frameworks  
-`Python` · `JavaScript (ES6+)` · `TypeScript` · `SQL`  
-`Django` · `FastAPI` · `Node.js` · `Express.js` · `React.js` · `Next.js` · `GraphQL` · `REST APIs`
+  "technologies": {
 
-#### 🤖 AI / ML / Data  
-`Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `Keras`  
-`LangChain` · `OpenAI API` · `MLflow` · `NLP` · `Prompt Engineering` · `Data Visualization`
+    "languages"  : ["Python", "TypeScript", "JavaScript", "SQL"],
 
-#### 🗄️ Databases & Cloud  
-`PostgreSQL` · `MySQL` · `MongoDB` · `SQLite` · `Redis` · `Supabase`  
-`AWS (EC2, S3)` · `Vercel` · `Drizzle` · `Prisma`
+    "backend"    : ["Django", "FastAPI", "Node.js", "Express",
+                    "Celery", "RabbitMQ", "REST", "GraphQL"],
 
-#### ⚙️ DevOps & Infrastructure  
-`Docker` · `GitHub Actions` · `Gunicorn` · `Nginx` · `CI/CD`  
-`RabbitMQ` · `BullMQ` · `Celery` · `Supervisor`
+    "frontend"   : ["React", "Next.js", "TailwindCSS", "Framer Motion"],
 
-#### 🎨 Frontend Technologies  
-`TailwindCSS` · `SASS/SCSS` · `Three.js` · `SolidJS` · `Framer Motion` · `React Flow` · `Shadcn` · `DaisyUI`
+    "data_cloud" : ["PostgreSQL", "MySQL", "MongoDB", "Redis",
+                    "AWS (EC2, S3, RDS)", "Docker", "CI/CD"],
 
-#### 🧰 Tools & Productivity  
-`VS Code` · `Postman` · `Figma` · `Swagger` · `Git` · `Trello` · `Notion` · `Obsidian` · `Zsh` · `Linux CLI`
+    "ai_llm"     : ["LangChain", "OpenAI API", "Gemini API",
+                    "RAG Pipelines", "Prompt Engineering", "MCP Tooling"],
+
+    "cs"         : ["DSA", "System Design", "Distributed Systems",
+                    "Microservices", "OOP", "Linux"]
+  },
+
+  "competitive_programming": {
+
+    "leetcode": {
+      "contest_rating" : 2442,
+      "level"          : "Guardian",              // top 0.27% globally
+      "global_ranking" : 2111,
+      "rank"           : 289657,
+      "contests"       : 13,
+      "badges"         : 5,
+      "contest_best"   : "Weekly #490  →  Rank #24",
+
+      "solved"         : 389,
+      "easy"           : "126 / 929",
+      "medium"         : "196 / 2018",
+      "hard"           : "67 / 912",
+
+      "submissions_yr" : 1018,
+      "active_days"    : 181,
+      "max_streak"     : 34,
+    },
+
+    "codechef"   : {
+      "rating"        : 2141,
+      "stars"         : "★★★★★",
+      "global_rank"   : 581,
+      "country_rank"  : 291,
+      "contests"      : 3,
+      "contest_best"  : "Starters #227  →  Rank #6",
+      "solved"        : 81
+    },
+
+    "overall"    : {
+      "platforms"   : ["LeetCode", "CodeChef", "HackerRank", "GFG",
+                       "InterviewBit", "CodeStudio"],
+      "total_solved": 638,
+      "active_days" : 199,
+      "max_streak"  : 34,
+      "submissions" : 1080,
+    }
+  },
+
+  "find_me_on": {
+      "linkedin"   : "https://linkedin.com/in/shobhitgagrani",
+      "leetcode"   : "https://leetcode.com/u/ShobhitGagrani",
+      "codechef"   : "https://codechef.com/users/shobhitg33",
+      "hackerrank" : "https://hackerrank.com/profile/shobhitgagrani01",
+      "gfg"        : "https://geeksforgeeks.org/user/shobhitgagrani33",
+      "interviewbit": "https://interviewbit.com/profile/shobhit-gagrani",
+      "codestudio" : "https://naukri.com/code360/profile/shobhitgagrani",
+      "codolio"    : "https://codolio.com/profile/shobhitgagrani",
+      "mail"       : "shobhitgagrani007@gmail.com"
+      }
+}
+
+
+}
+```
 
 ---
 
@@ -52,37 +111,3 @@ Currently focused on building **intelligent web systems**, integrating **AI/ML**
 </p>
 
 ---
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/shobhitgagrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhitgagrani" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shobhitgagrani01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shobhitgagrani01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shobhitgagrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shobhitgagrani" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shobhit333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shobhit333" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shobhitgagraztce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shobhitgagraztce" height="30" width="40" /></a>
-</p>
-
-<!--
----
-
-### 🧮 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techis-sg&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techis-sg&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Techis-sg)](https://git.io/streak-stats)
----
--- >
-
-### 💡 Side Projects
-<h3 align="center">🚧 Coming Soon 🚧</h3>
-
----
-
-<p align="center">💬 *"Code. Create. Iterate. Repeat."* ✨</p>
