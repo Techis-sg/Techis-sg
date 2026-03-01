@@ -16,7 +16,7 @@ Currently focused on building **intelligent web systems**, integrating **AI/ML**
 
 ---
 
-![Codefolio profile card](<img src="./profileCard.png" alt="ProfileCard" width="300" height="150"/>)
+![Codefolio profile card](<img src="profileCard.png" alt="ProfileCard" width="300" height="150"/>)
 
 
 ### 🧠 Tech Stack
