@@ -16,6 +16,9 @@ Currently focused on building **intelligent web systems**, integrating **AI/ML**
 
 ---
 
+![Codefolio profile card](profileCard.png)
+
+
 ### 🧠 Tech Stack
 
 #### 🧩 Programming Languages & Frameworks  
