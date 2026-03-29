@@ -45,43 +45,48 @@
   },
 
   "competitive_programming": {
-
     "leetcode": {
-      "contest_rating" : 2442,
-      "level"          : "Guardian",              // top 0.27% globally
-      "global_ranking" : 2111,
-      "rank"           : 289657,
-      "contests"       : 13,
-      "badges"         : 5,
-      "contest_best"   : "Weekly #490  →  Rank #24",
+      "contest_rating": 2443,
+      "level": "Guardian",
+      "global_ranking": 2127,
+      "rank": 224278,
+      "contests": 18,
+      "badges": 6,
+      "contest_best": null,
 
-      "solved"         : 389,
-      "easy"           : "126 / 929",
-      "medium"         : "196 / 2018",
-      "hard"           : "67 / 912",
+      "solved": 453,
+      "easy": "137 / 935",
+      "medium": "231 / 2033",
+      "hard": "85 / 919",
 
-      "submissions_yr" : 1018,
-      "active_days"    : 181,
-      "max_streak"     : 34,
+      "submissions_yr": 1125,
+      "active_days": 209,
+      "max_streak": 62
     },
 
-    "codechef"   : {
-      "rating"        : 2141,
-      "stars"         : "★★★★★",
-      "global_rank"   : 581,
-      "country_rank"  : 291,
-      "contests"      : 3,
-      "contest_best"  : "Starters #227  →  Rank #6",
-      "solved"        : 81
+    "codechef": {
+      "rating": 2353,
+      "stars": "★★★★★★",
+      "global_rank": 164,
+      "country_rank": 35,
+      "contests": 5,
+      "contest_best": null,
+      "solved": 139
     },
 
-    "overall"    : {
-      "platforms"   : ["LeetCode", "CodeChef", "HackerRank", "GFG",
-                       "InterviewBit", "CodeStudio"],
-      "total_solved": 638,
-      "active_days" : 199,
-      "max_streak"  : 34,
-      "submissions" : 1080,
+    "overall": {
+      "platforms": [
+        "LeetCode",
+        "CodeChef",
+        "HackerRank",
+        "GFG",
+        "InterviewBit",
+        "CodeStudio"
+      ],
+      "total_solved": 850,
+      "active_days": 227,
+      "max_streak": 62,
+      "submissions": 1239
     }
   },
 
